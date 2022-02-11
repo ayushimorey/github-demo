@@ -1,6 +1,6 @@
 # add implementation
 def add(a,b):
-pass
+pass 
 
 # mul implementation
 def mul(a,b):
@@ -11,6 +11,12 @@ pass
 def sub(a,b):
 pass
 
+
 # mod implementation
 def mod(a,b):
 pass
+
+# div implementation
+def div(a,b):
+pass
+
