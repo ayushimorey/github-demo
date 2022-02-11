@@ -6,3 +6,7 @@ pass
 def mul(a,b):
 pass
 
+
+# sub implementation
+def sub(a,b):
+pass
