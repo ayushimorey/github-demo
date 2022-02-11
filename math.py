@@ -4,7 +4,7 @@ pass
 
 # mul implementation
 def mul(a,b):
-pass
+pass fail
 
 
 # sub implementation
