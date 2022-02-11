@@ -10,3 +10,7 @@ pass
 # sub implementation
 def sub(a,b):
 pass
+
+# mod implementation
+def mod(a,b):
+pass
